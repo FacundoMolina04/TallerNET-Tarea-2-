@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxASwLyqaHg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Facu\\Source\\Repos\\PROBANDO\\01_02b_pipelinePattern\\01_02b_pipelinePattern\\01_02b_pipelinePattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Facu\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Facu\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
